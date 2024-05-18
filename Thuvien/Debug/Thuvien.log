@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(88,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(88,46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(88,58): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1195,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1204,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1212,21): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1238,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1247,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1255,21): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1277,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1286,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1294,21): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1315,26): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1412,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1420,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+D:\C++\ktdhmt\Thuvien\Thuvien\main.cpp(1427,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  Thuvien.vcxproj -> D:\C++\ktdhmt\Thuvien\Debug\Thuvien.exe
